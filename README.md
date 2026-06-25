@@ -4,6 +4,12 @@
 
 ---
 
+## Background
+
+This project began as a course project at Islamic Azad University, Central Tehran Branch (Software Design Principles, Winter 2024), and was subsequently extended and restructured as an independent design study — translating the original system concept into a complete English-language design document with an expanded AI layer, tiered autonomy model, and detailed use case analysis.
+
+---
+
 ## The Problem with "Just Use the App"
 
 Elderly users are consistently underserved by health technology — not because the technology doesn't exist, but because it wasn't designed with them in mind. The average health monitoring app assumes the user is comfortable navigating menus, interpreting raw sensor data, and making decisions about their own care based on a notification they received at 2am.
@@ -84,6 +90,3 @@ This isn't just a safety mechanism. It's the reason an elderly person who distru
 
 ---
 
-## Background
-
-This project began as a group course project at Islamic Azad University, Central Tehran Branch (Software Design Principles, Winter 2024), and was subsequently extended and restructured as an independent design study — translating the original system concept into a complete English-language design document with an expanded AI layer, tiered autonomy model, and detailed use case analysis.
