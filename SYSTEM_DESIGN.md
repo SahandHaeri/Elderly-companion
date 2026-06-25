@@ -1,5 +1,7 @@
 # System Design
 
+![System Flow](./diagrams/healthcare_system_flow.png)
+
 ## 1. System Architecture
 
 The system operates across two primary devices: a **smartphone** (the central processing hub) and a **paired smartwatch** (the primary sensor interface). All processing that can be done on-device is done on-device, with cloud connectivity used only for external escalation actions — emergency calls, family notifications, pharmacy integration.
